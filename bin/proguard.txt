@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:47
+-keep class com.akshay.framework.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.akshay.framework.Db_ui { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.akshay.framework.Help { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.akshay.framework.ListMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.akshay.framework.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.akshay.framework.Splash { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.akshay.framework.ThirdActivity { <init>(...); }
+

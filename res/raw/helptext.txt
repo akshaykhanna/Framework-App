@@ -1,0 +1,7 @@
+Help can be added from text file.
+This text file is in res/raw/helptext.txt
+Open it and write your help in it.
+Enter Help 1
+Enter Help 2 
+Enter Help 3
+Enter Help 4
